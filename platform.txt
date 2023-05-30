@@ -1,0 +1,9 @@
+Loc: ('English_United States', '1252')
+System: Windows
+Node Name: Zetro
+Release: 10
+Version: 10.0.22621
+Machine: AMD64
+Processor: Intel64 Family 6 Model 151 Stepping 2, GenuineIntel
+Width: 2560
+Height: 1440

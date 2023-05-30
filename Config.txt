@@ -1,0 +1,11 @@
+Notification Disabled
+url
+zeror3ap3r@gmail.com
+Gavinlf06
+Auto Bumper Disabled
+Auto Reply Enabled
+SLOW
+ChatID
+ItemTelegramOFF
+ReplyTelegramOFF
+FastLoginOff

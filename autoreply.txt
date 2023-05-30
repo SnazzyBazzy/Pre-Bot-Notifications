@@ -1,0 +1,9 @@
+You can edit the text below! (IMPORTANT: Don't use words like "auto, reply, response, bot" etc. in your message)
+################################################################################################################
+Hi {}, You can add me!
+################################################################################################################
+
+- Want to use emoji in your message?
+1. Go to page > github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+2. Copy the "shortcode" of the emoji you want and paste it inside your message!
+   Example: "Hi {}, You can add me! :heart:"
